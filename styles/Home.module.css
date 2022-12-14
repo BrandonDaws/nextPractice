@@ -5,11 +5,13 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+ 
 }
 
 .title a {
   color: #0070f3;
   text-decoration: none;
+  text-align: center;
 }
 
 .title a:hover,
@@ -89,3 +91,5 @@
     flex-direction: column;
   }
 }
+
+
